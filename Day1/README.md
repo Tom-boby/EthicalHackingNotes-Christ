@@ -1,1 +1,30 @@
+#### Introduction to Cybersecurity
+This class is an introduction to the basics of cybersecurity.
+You will learn about the main teams in cybersecurity, common types of cyber threats, and what hacking means.
+*Red Team – The Simulated Attackers
+These are the people who pretend to be hackers. Their job is to try breaking into systems — but not to harm anything. They do this to find weaknesses so that the system can be made stronger.
+*Blue Team – The Defenders
+The Blue Team is all about protection. They defend computers and networks from real attacks using tools like firewalls, antivirus software, and security monitoring systems.
+*Purple Team – The Bridge Between
+The Purple Team is a combination of Red and Blue. They help the two teams work better together by sharing information and strategies. This teamwork helps improve the overall safety of systems.
 
+ **Types of Cyber Threats – What Can Go Wrong?
+Cyber threats are problems or attacks that can happen online. Here are some of the most common ones you should know:
+*Phishing
+Trick emails or messages that try to steal personal info, like passwords or credit card numbers.
+*Ransomware
+A virus that locks your files and asks for money (a ransom) to unlock them.
+*Malware
+Short for "malicious software." This includes viruses, spyware, or anything harmful that damages systems or steals data.
+*Social Engineering
+Instead of attacking computers, attackers trick people into giving away private information.
+*Man-in-the-Middle Attack
+A sneaky method where the attacker secretly listens to or changes communication between two parties.
+*Zero-Day Attack
+A super dangerous attack that targets a new software flaw before anyone knows about it or can fix it.
+
+**3️ Hacking – The Good, the Bad, and the Gray
+Hacking is when someone accesses a system or data without permission. But not all hackers are the same:
+*White Hat Hackers: The good guys. They use hacking to test and fix systems legally.
+*Black Hat Hackers: The bad guys. They break in to steal or cause harm.
+*Gray Hat Hackers: Somewhere in between. They might break rules but don’t mean to cause trouble.
